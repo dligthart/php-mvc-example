@@ -1,1 +1,1 @@
-# php-mvc-voorbeeld
+# Bare bones PHP MVC Example
