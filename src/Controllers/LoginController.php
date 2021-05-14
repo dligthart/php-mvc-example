@@ -3,7 +3,7 @@
  * Class LoginController.
  * 
  * @author dligthart <ligthart@pm.me>
- * @package phpcursus
+ * @package example
  */
 class LoginController extends Controller {
 

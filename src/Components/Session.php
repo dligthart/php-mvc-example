@@ -2,8 +2,8 @@
 /**
  * Class Session.
  * 
- * @author dligthart <ligthart@pm.me>
- * @package phpcursus
+ * @author dligthart
+ * @package example
  */
 class Session {
 

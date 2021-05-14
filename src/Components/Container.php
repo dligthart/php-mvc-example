@@ -2,8 +2,8 @@
 /**
  * Class Container.
  * 
- * @author dligthart <ligthart@pm.me>
- * @package phpcursus
+ * @author dligthart
+ * @package example
  * @see https://www.php-fig.org/psr/psr-11/
  */
 class Container {

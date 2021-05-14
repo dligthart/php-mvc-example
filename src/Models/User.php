@@ -3,7 +3,7 @@
  * Class User;
  * 
  * @author dligthart <ligthart@pm.me>
- * @package phpcursus
+ * @package example
  */
 class User extends Model {
     public $role = 'guest';

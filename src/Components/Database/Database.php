@@ -2,8 +2,8 @@
 /**
  * Class Database.
  * 
- * @author dligthart <ligthart@pm.me>
- * @package phpcursus
+ * @author dligthart
+ * @package example
  */
 class Database {
     public function __construct() {

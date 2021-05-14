@@ -3,7 +3,7 @@
  * Class Model.
  * 
  * @author dligthart <ligthart@pm.me>
- * @package phpcursus
+ * @package example
  */
 class Model {
 
