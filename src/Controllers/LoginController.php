@@ -2,7 +2,7 @@
 /**
  * Class LoginController.
  * 
- * @author dligthart <ligthart@pm.me>
+ * @author dligthart
  * @package example
  */
 class LoginController extends Controller {
