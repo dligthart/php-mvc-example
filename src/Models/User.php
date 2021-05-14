@@ -2,7 +2,7 @@
 /**
  * Class User;
  * 
- * @author dligthart <ligthart@pm.me>
+ * @author dligthart
  * @package example
  */
 class User extends Model {
