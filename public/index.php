@@ -1,3 +1,3 @@
 <?php
-include_once '../src/bootstrap.php';
+require_once '../src/bootstrap.php';
 exit;
