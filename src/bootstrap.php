@@ -6,11 +6,21 @@
  * @package example
  */
 
-
+/**
+ * Load file
+ *
+ * @param [type] $class_name
+ * @return void
+ */
 function load($class_name) {
     include_once $class_name . '.php';
 }
 
+/**
+ * Bootstrap.
+ *
+ * @return void
+ */
 function bootstrap() {
     load('config');
     load('Support/helpers');

@@ -6,7 +6,8 @@
  * @package example
  * @see https://www.php-fig.org/psr/psr-11/
  */
-class Container {
+class Container 
+{
 
     public function get($id) {
 

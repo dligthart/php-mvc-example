@@ -5,7 +5,8 @@
  * @author dligthart
  * @package example
  */
-class Database {
+class Database 
+{
     public function __construct() {
 
     }

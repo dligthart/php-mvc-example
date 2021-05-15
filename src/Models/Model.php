@@ -5,6 +5,7 @@
  * @author dligthart
  * @package example
  */
-class Model {
+class Model 
+{
 
 }

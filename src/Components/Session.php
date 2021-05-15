@@ -5,7 +5,8 @@
  * @author dligthart
  * @package example
  */
-class Session {
+class Session 
+{
 
     public static function start(): bool {
         return session_start();

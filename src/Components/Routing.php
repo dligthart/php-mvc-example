@@ -5,8 +5,8 @@
  * @author dligthart
  * @package example
  */
-class Routing {
-
+class Routing 
+{
     private $routes = array();
     private $errors = array();
 

@@ -5,7 +5,8 @@
  * @author dligthart
  * @package example
  */
-class View {
+class View 
+{
 
     private $name;
     private $output;

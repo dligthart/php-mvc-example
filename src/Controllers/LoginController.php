@@ -5,7 +5,8 @@
  * @author dligthart
  * @package example
  */
-class LoginController extends Controller {
+class LoginController extends Controller 
+{
 
     public function __construct() {
         //echo 'LoginController Loaded' . PHP_EOL;

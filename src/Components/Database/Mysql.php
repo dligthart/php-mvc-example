@@ -5,7 +5,8 @@
  * @author dligthart
  * @package example
  */
-class Mysql extends Database {
+class Mysql extends Database 
+{
 
     public function __construct() {
 

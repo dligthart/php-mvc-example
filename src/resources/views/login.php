@@ -1,4 +1,4 @@
-<h1>This is the login view</h1>
+<h1>Login/h1>
 
 <?php if(Session::get('username')): ?>
 

@@ -5,7 +5,8 @@
  * @author dligthart
  * @package example
  */
-class Http {
+class Http 
+{
 
     public static function redirect($route) {
         header('location: /' . $route);
